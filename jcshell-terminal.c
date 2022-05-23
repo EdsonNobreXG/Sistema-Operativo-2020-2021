@@ -18,7 +18,7 @@ int main(int argc, char **argv){
 	char buffer[80];
     int filed[2],num_pross_exce = 0;
     
-    /* ABRIR OS PIPE'S CRIADOS NO JCSHELL */
+    /* ABRIR OS PIPE'SS CRIADOS NO JCSHELL */
     filed[0] = open(argv[1], O_WRONLY); // ABRIR ESVREVER
     filed[1]= open("jcshell-out",O_RDONLY); // ABRIRI LER
 
