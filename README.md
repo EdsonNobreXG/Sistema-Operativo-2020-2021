@@ -7,7 +7,7 @@ como iniciar
 1 -  abra  2 ou 3 terminal
 
 terminal 1
-2-  na pasta onde estiver os arquivo 
+na pasta onde estiver os arquivo 
 2.1- executar comando make
 2.2- jc-shell
 
@@ -15,7 +15,8 @@ terminal 2
 
 jcshell-terminal  jcshell in
 
-testa o seguinte comando -- fibonacci de 1000
+testa o seguinte comando 
+-- fibonacci de 1000
 --- status
 --- exit 
 --- exit global
