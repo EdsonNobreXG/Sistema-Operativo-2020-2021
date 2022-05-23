@@ -2,6 +2,7 @@
 // Fibonacci, version 2
 // Sistemas Operativos, DEI-CC/FC/UAN 2020
 // Professor Joao Costa
+// author Edson XG
 */
 
 #include <stdlib.h>

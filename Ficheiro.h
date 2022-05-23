@@ -1,3 +1,5 @@
+// author Edson XG
+
 #ifndef FICHEIRO_H_INCLUDED
 #define FICHEIRO_H_INCLUDED
 #include "list.h"
